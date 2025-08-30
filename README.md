@@ -45,7 +45,7 @@ This project leverages **Data Modeling** to join multiple tables, and **DAX calc
 ---
 
 ## 🔗 Links
-- 🌐 **Portfolio Website**:(manish-singh.framer.website)  
+- 🌐 **Portfolio Website**:(https://manish-singh.framer.website)  
 - 💼 **LinkedIn Profile**: (https://www.linkedin.com/in/manishsingh22/)
 
 
